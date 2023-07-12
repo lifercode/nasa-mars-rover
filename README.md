@@ -33,6 +33,12 @@ components, if you see the need to use Redux or Mobx it’s all up to you.
 
 ### Showing full code in just one file
 
+In the project repository, I separated the code into several files in an organized way, using folders like components, pages, api, and utils...
+
+But the result was so light that I created a Gist in the project's readme to display all the code in just one file and facilitate the reading of the solution.
+
 [gist.github.com/lifercode/30770e2c413764dc184482ee45934cf1](https://gist.github.com/lifercode/30770e2c413764dc184482ee45934cf1)
 
 ![code](https://github.com/lifercode/nasa-mars-rover/assets/46170334/f1f2b02f-4351-4a65-ace2-1e44533b05df)
+
+[lifercode.dev](https://lifercode.dev/)
